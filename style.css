@@ -1,0 +1,47 @@
+.pat{
+    font-family: 'MonteCarlo', cursive;
+    font-size: 50px;
+    background-color: #fad0c1;
+    width: 300px;
+    border-radius: 15px 50px;
+}
+
+#body{
+    background-color:rgb(243, 168, 243);
+    background-image: url("https://marketplace.canva.com/EAEthkBVLfQ/1/0/1600w/canva-blush-wave-desktop-wallpaper-drvq3zaYl2E.jpg");
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border-style: dotted;
+}
+
+#result{
+    width: 350px;
+    height: 300px;
+    border-style: dotted;
+}
+
+label{
+    background-color: white;
+    border-radius:5px;
+    font-size: medium;
+}
+
+#emoji_name{
+    font-size: 30px;
+    background-color: white;
+    width:200px;
+    border-radius: 10px;
+    color: #fcd4cd;
+    
+}
+
+#emoji{
+    font-size: 40px;
+    background-color: white;
+    width:50px;
+    border-radius: 1000px;
+    
+}
